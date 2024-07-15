@@ -1,0 +1,20 @@
+List of usernames and passwords that can be used to test login.
+Full list of dummy users can be found at "https://dummyjson.com/users"
+
+
+username: emilys
+password: emilyspass
+----------------------
+username: michaelw
+password: michaelwpass
+----------------------
+username: sophiab
+password: sophiabpass
+----------------------
+username: emmaj
+password: emmajpass
+----------------------
+username: oliviaw
+password: oliviawpass
+----------------------
+
